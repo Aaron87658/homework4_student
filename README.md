@@ -34,5 +34,6 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
+### Aaron Le 2238794
 Write your paragraph on the importance of the required plot elements here.
+# Linear regression offers identifying overall trends and providing a clear, simple model to describe data changes over time, but fails to capture non-linear patterns. Interpolation fills the gaps in missing data, ensuring for continuity of analysis. However, it assumes the trends between known points are consistent. Lastly, rolling means smooth short-term fluctuations to highlight long-term trends which improves clarity; Conversely, it can blur significant short-term variations, making them less effective when gaps are widespread.
